@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - FxTemporaire
+  - Car
+  - Up
+  - Down
+  - Left
+  - Right
+  - Floor
+  - PaintBall
+  - Baloon
+  - Tree
+  - Wood
+  - Ground
+  - Water
+  - Target
+  - PhotoZone
+  - GimmeFiveZone
+  - FanHand
+  - FiveHand
+  - RightZone
+  - LeftZone
+  - Barier
+  - Money
+  - Turd
+  - Vehicle
+  - Alcohol
+  - Angry
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Walls
+  - Crowd
+  - Angry
+  - Heads
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
